@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Flashcards/task/build/
+/Flashcards/task/out/
+/Flashcards/task/out/production/classes/
+/Topics/Branching statements/Bus tour/out/
+/Topics/Branching statements/Bus tour/out/production/classes/
